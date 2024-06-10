@@ -1,2 +1,2 @@
 # mapty-oop
-belajar oop dan implemenasi geolocation juga library leaflet
+belajar vanilla JS oop dan implemenasi geolocation juga library leaflet
